@@ -109,3 +109,21 @@
     text-align: center;
     color: gray;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 70px 350px;
+}
+
+.quoteText {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 300;
+}
+
+.quoteAuthor {
+    color: #1F2937;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: right;
+}
